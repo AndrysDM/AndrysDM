@@ -138,142 +138,144 @@ const AndrysDM = {
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-<a href="https://github.com/AndrysDM/business-catalog">
-<img src="assets/projects/business-catalog.png" width="100%" alt="Business Catalog" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
-</a>
-<br/>
-<br/>
-
-**Business Catalog**
-<br/>
-<sub>Full-stack business directory with search, filtering, and real-time updates</sub>
-<br/>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/AndrysDM/business-catalog">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-
+<table width="100%">
+<tr>
+<td width="60" valign="top">
+<img src="assets/projects/booksreader/icon.png" width="50" style="border-radius:12px"/>
 </td>
-<td width="50%" align="center">
+<td valign="top">
 
-<a href="https://github.com/AndrysDM/booksreader">
-<img src="assets/projects/booksreader/home.jpeg" width="100%" alt="BooksReader" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
-</a>
+**[BooksReader](https://github.com/AndrysDM/booksreader)** — E-book reader with offline translation
 <br/>
-<br/>
-
-**BooksReader**
-<br/>
-<sub>E-book reader with offline translation support</sub>
-<br/>
-<br/>
-
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Offline Translation](https://img.shields.io/badge/Offline_Translation-3fb950?style=flat-square)
-
+![Offline](https://img.shields.io/badge/Offline-3fb950?style=flat-square)
 <br/>
+<a href="https://github.com/AndrysDM/booksreader"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-<a href="https://github.com/AndrysDM/booksreader">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/AndrysDM/mando">
-<img src="assets/projects/mando.png" width="100%" alt="Mando" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
-</a>
-<br/>
-<br/>
-
-**Mando**
-<br/>
-<sub>Command-line tool for project automation and workflow management</sub>
-<br/>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/AndrysDM/mando">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/AndrysDM/portfolio">
-<img src="assets/projects/portfolio.png" width="100%" alt="Portfolio" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
-</a>
-<br/>
-<br/>
-
-**Portfolio**
-<br/>
-<sub>Personal portfolio website with modern design and animations</sub>
-<br/>
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/AndrysDM/portfolio">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/FastLearningSystems-BrainPress/BrainPressMobile">
-<img src="assets/projects/brainpress/home.webp" width="100%" alt="BrainPress" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
-</a>
-<br/>
-<br/>
-
-**BrainPress**
-<br/>
-<sub>Cognitive training app based on number sequence method</sub>
-<br/>
-<br/>
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Cognitive](https://img.shields.io/badge/Cognitive_Training-3fb950?style=flat-square)
-
-<br/>
-
-<a href="https://github.com/FastLearningSystems-BrainPress/BrainPressMobile">
-<img src="https://img.shields.io/badge/Mobile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mobile"/>
-</a>
-<a href="https://github.com/FastLearningSystems-BrainPress/BrainPressDesktop">
-<img src="https://img.shields.io/badge/Desktop-181717?style=for-the-badge&logo=github&logoColor=white" alt="Desktop"/>
-</a>
-
-</td>
-<td width="50%" align="center">
 </td>
 </tr>
 </table>
+
+</td>
+<td width="50%">
+
+<table width="100%">
+<tr>
+<td width="60" valign="top">
+<img src="assets/projects/brainpress/icon.webp" width="50" style="border-radius:12px"/>
+</td>
+<td valign="top">
+
+**[BrainPress](https://github.com/FastLearningSystems-BrainPress/BrainPressMobile)** — Cognitive training app
+<br/>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Cognitive](https://img.shields.io/badge/Cognitive-3fb950?style=flat-square)
+<br/>
+<a href="https://github.com/FastLearningSystems-BrainPress/BrainPressMobile"><img src="https://img.shields.io/badge/Mobile-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/FastLearningSystems-BrainPress/BrainPressDesktop"><img src="https://img.shields.io/badge/Desktop-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<table width="100%">
+<tr>
+<td width="60" valign="top">
+<img src="https://img.shields.io/badge/Business_Catalog-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" width="50"/>
+</td>
+<td valign="top">
+
+**[Business Catalog](https://github.com/AndrysDM/business-catalog)** — Full-stack business directory
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
+<a href="https://github.com/AndrysDM/business-catalog"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%">
+
+<table width="100%">
+<tr>
+<td width="60" valign="top">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" width="50"/>
+</td>
+<td valign="top">
+
+**[Portfolio](https://github.com/AndrysDM/portfolio)** — Personal website with animations
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br/>
+<a href="https://github.com/AndrysDM/portfolio"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ======================== PROJECT GALLERY ======================== -->
+### 📸 Project Gallery
+
+<details>
+<summary><strong>BooksReader</strong> — E-book reader with offline translation</summary>
+<br/>
+
+| Library | Reader | Translation |
+|---------|--------|-------------|
+| <img src="assets/projects/booksreader/home.jpeg" width="100%" style="border-radius:8px"/> | <img src="assets/projects/booksreader/lectura.jpeg" width="100%" style="border-radius:8px"/> | <img src="assets/projects/booksreader/icon.png" width="100%" style="border-radius:8px"/> |
+
+</details>
+
+<details>
+<summary><strong>BrainPress</strong> — Cognitive training app</summary>
+<br/>
+
+| Home | Game | Stats |
+|------|------|-------|
+| <img src="assets/projects/brainpress/home.webp" width="100%" style="border-radius:8px"/> | <img src="assets/projects/brainpress/game.webp" width="100%" style="border-radius:8px"/> | <img src="assets/projects/brainpress/stadistics.webp" width="100%" style="border-radius:8px"/> |
+
+</details>
+
+<details>
+<summary><strong>Business Catalog</strong> — Full-stack business directory</summary>
+<br/>
+
+| Map | Listings | Details |
+|-----|----------|---------|
+| *Screenshots coming soon* | | |
+
+</details>
+
+<details>
+<summary><strong>Mando</strong> — Project automation tool</summary>
+<br/>
+
+| Controller | Touchpad | Connection |
+|------------|----------|------------|
+| *Screenshots coming soon* | | |
+
+</details>
 
 <br/>
 
