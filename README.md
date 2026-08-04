@@ -304,7 +304,7 @@ const AndrysDM = {
 </td>
 <td width="34%" align="center">
 
-![Commits](https://img.shields.io/github/commits-since/AndrysDM/AndrysDM?style=for-the-badge&theme=tokyonight&label=COMMITS)
+![Followers](https://img.shields.io/github/followers/AndrysDM?style=for-the-badge&theme=tokyonight&label=FOLLOWERS)
 
 </td>
 <td width="33%" align="center">
