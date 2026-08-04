@@ -167,20 +167,20 @@ const AndrysDM = {
 <td width="50%" align="center">
 
 <a href="https://github.com/AndrysDM/booksreader">
-<img src="assets/projects/booksreader.png" width="100%" alt="BooksReader" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
+<img src="assets/projects/booksreader/home.jpeg" width="100%" alt="BooksReader" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
 </a>
 <br/>
 <br/>
 
 **BooksReader**
 <br/>
-<sub>Modern e-reader platform with AI-powered book recommendations</sub>
+<sub>E-book reader with offline translation support</sub>
 <br/>
 <br/>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Offline Translation](https://img.shields.io/badge/Offline_Translation-3fb950?style=flat-square)
 
 <br/>
 
