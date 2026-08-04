@@ -321,7 +321,7 @@ const AndrysDM = {
 ### Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndrysDM&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-trophy.vercel.app/?username=AndrysDM&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br/>
