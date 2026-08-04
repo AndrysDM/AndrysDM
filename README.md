@@ -295,6 +295,28 @@ const AndrysDM = {
 
 <br/>
 
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center">
+
+![Stars](https://img.shields.io/github/stars/AndrysDM?style=for-the-badge&theme=tokyonight&label=STARS)
+
+</td>
+<td width="34%" align="center">
+
+![Commits](https://img.shields.io/github/commits-since/AndrysDM/AndrysDM?style=for-the-badge&theme=tokyonight&label=COMMITS)
+
+</td>
+<td width="33%" align="center">
+
+![Repos](https://img.shields.io/github/repos/AndrysDM?style=for-the-badge&theme=tokyonight&label=REPOS)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ======================== GITHUB TROPHIES ======================== -->
 ### Achievements
 
