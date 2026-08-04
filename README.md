@@ -28,12 +28,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrysDM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AndrysDM Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrysDM&theme=tokyonight&hide_border=true" alt="AndrysDM Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrysDM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="AndrysDM Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrysDM&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=a5d6ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="AndrysDM Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrysDM&layout=compact&theme=tokyonight&hide_border=true" alt="AndrysDM Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrysDM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="AndrysDM Languages" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrysDM&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true" alt="AndrysDM Activity" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndrysDM&theme=tokyonight" alt="AndrysDM Summary" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndrysDM&theme=tokyonight" alt="AndrysDM Productive Time" width="49%"/>
 </p>
 
 ---
@@ -42,6 +48,12 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AndrysDM&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10" alt="AndrysDM Trophies"/>
+</p>
+
+### 📈 Contribution Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrysDM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="AndrysDM Metrics" height="180"/>
 </p>
 
 ---
