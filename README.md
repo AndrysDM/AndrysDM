@@ -78,7 +78,7 @@ const AndrysDM = {
 <td width="50%" valign="top">
 
 #### Current Status
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AndrysDM&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=a5d6ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=AndrysDM&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=a5d6ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
