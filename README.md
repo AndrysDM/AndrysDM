@@ -12,7 +12,7 @@
 
 <!-- ======================== TYPING ANIMATION ======================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeatType=reverse&width=600&height=100&lines=Full+Stack+Developer;Building+the+Future+with+Code;React+%7C+TypeScript+%7C+Python+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeatType=reverse&width=600&height=100&lines=Full+Stack+Developer;Building+the+Future+with+Code;React+%7C+TypeScript+%7C+Python+%7C+C%2B%2B+%7C+AI" alt="Typing SVG" />
 </p>
 
 <!-- ======================== BADGES ======================== -->
@@ -44,7 +44,7 @@ const AndrysDM = {
     role: "Full Stack Developer",
     location: "🌎 Latin America",
     
-    languages: ["JavaScript", "TypeScript", "Python"],
+    languages: ["JavaScript", "TypeScript", "Python", "C++"],
     
     frontend: ["React", "React Native", "Next.js", "Vue.js", "TailwindCSS"],
     backend: ["Node.js", "Express", "FastAPI", "Django"],
@@ -99,6 +99,7 @@ const AndrysDM = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </td>
 <td width="34%" align="center">
