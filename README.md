@@ -241,6 +241,35 @@ const AndrysDM = {
 
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/AndrysDM/brainpress">
+<img src="assets/projects/brainpress/home.webp" width="100%" alt="BrainPress" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
+</a>
+<br/>
+<br/>
+
+**BrainPress**
+<br/>
+<sub>Cognitive training app based on number sequence method</sub>
+<br/>
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Cognitive](https://img.shields.io/badge/Cognitive_Training-3fb950?style=flat-square)
+
+<br/>
+
+<a href="https://github.com/AndrysDM/brainpress">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+</td>
+</tr>
 </table>
 
 <br/>
