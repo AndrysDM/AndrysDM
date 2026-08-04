@@ -211,7 +211,7 @@ const AndrysDM = {
 
 | Library | Reader |
 |---------|--------|
-| <img src="assets/projects/booksreader/home.jpeg" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/booksreader/lectura.jpeg" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> |
+| <img src="assets/projects/booksreader/home.jpeg" width="100%" height="400" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/booksreader/lectura.jpeg" width="100%" height="400" style="border-radius:8px;object-fit:cover"/> |
 
 </details>
 
@@ -221,7 +221,7 @@ const AndrysDM = {
 
 | Home | Game | Stats |
 |------|------|-------|
-| <img src="assets/projects/brainpress/home.webp" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/brainpress/game.webp" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/brainpress/stadistics.webp" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> |
+| <img src="assets/projects/brainpress/home.webp" width="100%" height="400" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/brainpress/game.webp" width="100%" height="400" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/brainpress/stadistics.webp" width="100%" height="400" style="border-radius:8px;object-fit:cover"/> |
 
 </details>
 
