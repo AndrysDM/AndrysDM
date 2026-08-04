@@ -248,9 +248,30 @@ const AndrysDM = {
 <!-- ======================== TIMELINE ======================== -->
 ### Journey
 
-<p align="center">
-<img src="https://github-readme-timeline.vercel.app/svg?username=AndrysDM&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58a6ff&line_color=58a6ff&area_color=58a6ff&title_color=ffffff&text_color=c9d1d9" width="100%" alt="Timeline"/>
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="25%" align="center">
+
+![2023](https://img.shields.io/badge/2023-3fb950?style=for-the-badge&label=STARTED+CODING&labelColor=0d1117&color=3fb950)
+
+</td>
+<td width="25%" align="center">
+
+![2024](https://img.shields.io/badge/2024-58a6ff?style=for-the-badge&label=FULL+STACK&labelColor=0d1117&color=58a6ff)
+
+</td>
+<td width="25%" align="center">
+
+![2025](https://img.shields.io/badge/2025-a371f7?style=for-the-badge&label=AI+RESEARCH&labelColor=0d1117&color=a371f7)
+
+</td>
+<td width="25%" align="center">
+
+![NOW](https://img.shields.io/badge/NOW-f778ba?style=for-the-badge&label=OPEN+SOURCE&labelColor=0d1117&color=f778ba)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -261,12 +282,12 @@ const AndrysDM = {
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AndrysDM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" width="100%" alt="GitHub Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrysDM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrysDM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrysDM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </td>
 </tr>
@@ -278,7 +299,7 @@ const AndrysDM = {
 ### Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndrysDM&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=0d1117" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AndrysDM&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br/>
