@@ -244,7 +244,7 @@ const AndrysDM = {
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/AndrysDM/brainpress">
+<a href="https://github.com/FastLearningSystems-BrainPress/BrainPressMobile">
 <img src="assets/projects/brainpress/home.webp" width="100%" alt="BrainPress" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.4);"/>
 </a>
 <br/>
@@ -262,8 +262,11 @@ const AndrysDM = {
 
 <br/>
 
-<a href="https://github.com/AndrysDM/brainpress">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+<a href="https://github.com/FastLearningSystems-BrainPress/BrainPressMobile">
+<img src="https://img.shields.io/badge/Mobile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mobile"/>
+</a>
+<a href="https://github.com/FastLearningSystems-BrainPress/BrainPressDesktop">
+<img src="https://img.shields.io/badge/Desktop-181717?style=for-the-badge&logo=github&logoColor=white" alt="Desktop"/>
 </a>
 
 </td>
