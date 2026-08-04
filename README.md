@@ -138,14 +138,10 @@ const AndrysDM = {
 
 <table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<table width="100%">
-<tr>
-<td width="60" valign="top">
-<img src="assets/projects/booksreader/icon.png" width="50" style="border-radius:12px"/>
-</td>
-<td valign="top">
+<img src="assets/projects/booksreader/icon.png" width="80" style="border-radius:16px;box-shadow:0 4px 12px rgba(0,0,0,0.3)"/>
+<br/>
 
 **[BooksReader](https://github.com/AndrysDM/booksreader)** — E-book reader with offline translation
 <br/>
@@ -156,18 +152,10 @@ const AndrysDM = {
 <a href="https://github.com/AndrysDM/booksreader"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-</tr>
-</table>
+<td width="50%" align="center">
 
-</td>
-<td width="50%">
-
-<table width="100%">
-<tr>
-<td width="60" valign="top">
-<img src="assets/projects/brainpress/icon.webp" width="50" style="border-radius:12px"/>
-</td>
-<td valign="top">
+<img src="assets/projects/brainpress/icon.webp" width="80" style="border-radius:16px;box-shadow:0 4px 12px rgba(0,0,0,0.3)"/>
+<br/>
 
 **[BrainPress](https://github.com/FastLearningSystems-BrainPress/BrainPressMobile)** — Cognitive training app
 <br/>
@@ -180,19 +168,11 @@ const AndrysDM = {
 
 </td>
 </tr>
-</table>
-
-</td>
-</tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<table width="100%">
-<tr>
-<td width="60" valign="top">
-<img src="https://img.shields.io/badge/Business_Catalog-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" width="50"/>
-</td>
-<td valign="top">
+<img src="https://img.shields.io/badge/Business_Catalog-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" width="80" style="border-radius:16px"/>
+<br/>
 
 **[Business Catalog](https://github.com/AndrysDM/business-catalog)** — Full-stack business directory
 <br/>
@@ -203,18 +183,10 @@ const AndrysDM = {
 <a href="https://github.com/AndrysDM/business-catalog"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-</tr>
-</table>
+<td width="50%" align="center">
 
-</td>
-<td width="50%">
-
-<table width="100%">
-<tr>
-<td width="60" valign="top">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" width="50"/>
-</td>
-<td valign="top">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" width="80" style="border-radius:16px"/>
+<br/>
 
 **[Portfolio](https://github.com/AndrysDM/portfolio)** — Personal website with animations
 <br/>
@@ -223,10 +195,6 @@ const AndrysDM = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 <br/>
 <a href="https://github.com/AndrysDM/portfolio"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
@@ -241,9 +209,9 @@ const AndrysDM = {
 <summary><strong>BooksReader</strong> — E-book reader with offline translation</summary>
 <br/>
 
-| Library | Reader | Translation |
-|---------|--------|-------------|
-| <img src="assets/projects/booksreader/home.jpeg" width="100%" style="border-radius:8px"/> | <img src="assets/projects/booksreader/lectura.jpeg" width="100%" style="border-radius:8px"/> | <img src="assets/projects/booksreader/icon.png" width="100%" style="border-radius:8px"/> |
+| Library | Reader |
+|---------|--------|
+| <img src="assets/projects/booksreader/home.jpeg" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/booksreader/lectura.jpeg" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> |
 
 </details>
 
@@ -253,7 +221,7 @@ const AndrysDM = {
 
 | Home | Game | Stats |
 |------|------|-------|
-| <img src="assets/projects/brainpress/home.webp" width="100%" style="border-radius:8px"/> | <img src="assets/projects/brainpress/game.webp" width="100%" style="border-radius:8px"/> | <img src="assets/projects/brainpress/stadistics.webp" width="100%" style="border-radius:8px"/> |
+| <img src="assets/projects/brainpress/home.webp" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/brainpress/game.webp" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> | <img src="assets/projects/brainpress/stadistics.webp" width="100%" height="200" style="border-radius:8px;object-fit:cover"/> |
 
 </details>
 
