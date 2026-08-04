@@ -280,26 +280,9 @@ const AndrysDM = {
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrysDM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
-<td width="50%" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrysDM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
 <td width="33%" align="center">
 
-![Stars](https://img.shields.io/github/stars/AndrysDM?style=for-the-badge&theme=tokyonight&label=STARS)
+![Total Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAndrysDM&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=58a6ff)
 
 </td>
 <td width="34%" align="center">
@@ -309,7 +292,34 @@ const AndrysDM = {
 </td>
 <td width="33%" align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AndrysDM&style=for-the-badge&label=VIEWS&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/AndrysDM?style=for-the-badge&theme=tokyonight&label=TOTAL%20STARS)
+
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+<td width="50%" align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </td>
 </tr>
