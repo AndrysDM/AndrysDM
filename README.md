@@ -309,7 +309,7 @@ const AndrysDM = {
 </td>
 <td width="33%" align="center">
 
-![Repos](https://img.shields.io/github/repos/AndrysDM?style=for-the-badge&theme=tokyonight&label=REPOS)
+![Profile Views](https://komarev.com/ghpvc/?username=AndrysDM&style=for-the-badge&label=VIEWS&color=blueviolet)
 
 </td>
 </tr>
